@@ -7,4 +7,3 @@ Driver is expecting that public folder is called public_html.
 
 ## Installation OS X
 Copy file to ~/.valet/Drivers folder.
-
