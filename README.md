@@ -1,4 +1,4 @@
-#Laravel Valet Driver for Codeigniter
+# Laravel Valet Driver for Codeigniter
 
 Tested with OS X and Valet 2.0.7.
 
