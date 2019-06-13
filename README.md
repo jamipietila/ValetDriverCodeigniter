@@ -7,3 +7,4 @@ Driver expects that public folder name is `public_html`. Edit if needed (2 locat
 
 ## OS X Installation
 Copy `CodeigniterValetDriver.php` to `~/.valet/Drivers` folder.
+Newer Laravel/Valet installations: ~/.config/valet/Drivers 
